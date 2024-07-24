@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-jyosh
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/7ff8d03c-a58e-4e55-96b9-d303152ff90e
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  SUBSCRIPTION-ID: 7ff8d03c-a58e-4e55-96b9-d303152ff90e
+  WEBAPP-NAME: eshoponweb-webapp-jyosh
 
 
 jobs:
